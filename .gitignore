@@ -1,0 +1,8 @@
+*.pyc
+*.xml
+venv
+*.log
+.idea
+
+
+
